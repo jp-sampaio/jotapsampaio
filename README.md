@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue nas minhas redes abaixo!
+  ### Pra ver outros conteúdos meus sobre programação, me siga nas redes abaixo!
  
 <div> 
   <a href="https://www.instagram.com/jp_sampaio10/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
