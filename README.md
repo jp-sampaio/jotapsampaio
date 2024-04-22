@@ -1,8 +1,7 @@
 <!-- Title -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Welcome to my profile 😁 </h1></summary>
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+profile!+👋;+My+name+is+João+Paulo!;" />
+</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jp-sampaio&color=yellow" alt="Profile views" /> </p>
 
 <!-- Presentation -->
