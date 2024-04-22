@@ -38,8 +38,8 @@
 
  <div>
    <a href="https://github.com/jp-sampaio">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jp-sampaio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jp-sampaio&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jp-sampaio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jp-sampaio&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
 
@@ -72,7 +72,7 @@
     <h3>Libraries</h3>
     <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
     <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-    <img align="center" alt="Numpy" height="30" width="40" src="https://codigo35.com/wp-content/uploads/2023/10/Django.png">
+    <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
   </div>
 
 <br>
