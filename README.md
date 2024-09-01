@@ -8,7 +8,7 @@
 <p>
   Hi 👋, I'm João Paulo! A student fascinated in learning more and more about developing intelligent and efficient solutions.
 
-  - 🌱 I'm currently studying analysis and development at Estacio, as well as full stack courses in Python and learning SQL.
+  - 🌱 I'm currently studying data analysis with a focus on SQL, Python, Power BI, and Excel, to create insights and important visualizations for daily decision-making.
 
   - 🔭 I am looking for my first job opportunity.
 </p>
@@ -17,7 +17,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I'm 24 years old, and I have experience in practical projects in Python, designed to improve knowledge or even in freelance projects. My goals are to work with application development and continue learning more and more..
+  - 💬 I am a data analyst with solid experience in transforming raw data into actionable insights. With a special focus on SQL, Python, Power BI, and Excel, I have developed advanced skills in data analysis and visualization. My experience includes creating interactive dashboards and detailed reports that support strategic and operational decision-making.
 
   - ⚡ I really like playing sports, reading books and manga, watching anime and being with my family, and I like traveling, which makes this area perfect for anyone who wants to work remotely.
 </details>
